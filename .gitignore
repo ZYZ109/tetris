@@ -21,4 +21,4 @@ env/
 
 # Test coverage
 .coverage
-htmlcov/ 
+htmlcov/  
